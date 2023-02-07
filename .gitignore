@@ -51,3 +51,6 @@ buck-out/
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
+android/build/*
+android/app/.cxx/*
+android/java_pid20156.hprof
